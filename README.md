@@ -9,6 +9,7 @@ Weather Forecasting Application is one of the most common mini project in Softwa
 In our project as we will be exploring about the web application for weather app so will will be going to require following skill sets.
 
 - Front end Development ( Html , CSS ).
+- Python
 - Back end Development ( JavaScript ).
 - Tester
 - UI/UX Developer
